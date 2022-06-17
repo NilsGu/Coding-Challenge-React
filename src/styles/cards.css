@@ -1,0 +1,9 @@
+.grid-container {
+    display: grid;
+}
+
+.card {
+    border: 1px solid #282c34;
+    border-radius: 10px;
+    /*width: 1;*/
+}
